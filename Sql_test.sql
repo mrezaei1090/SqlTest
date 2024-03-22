@@ -1,5 +1,5 @@
 
--- create database dbtaha;
+create database dbtaha;
 
 use dbtaha;
 create table tbStudents(
@@ -12,7 +12,7 @@ create table tbStudents(
 use dbtaha;
 
 insert into tbstudents values 
-(2,'amirali','saki',12)
+(2,'amirali','saki',12);
 
 Select * from tbstudents;
 select fname from
